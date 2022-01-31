@@ -22,8 +22,8 @@ title: Awesome title
 email: pablorea.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  These are used to personalize your new site. If you look in the HTML files.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "pablorea.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  pablorea
 
@@ -31,6 +31,7 @@ github_username:  pablorea
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
