@@ -21,7 +21,7 @@
 title: Awesome title
 email: pablorea.dev@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Aca iria la descripcion de la pagina web.
+ These are used to personalize your new site. If you look in the HTML files.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
